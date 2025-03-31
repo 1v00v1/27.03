@@ -21,4 +21,4 @@ select * from Kupac where Ime like 'Ki%'
 
 select * from Kupac where Prezime like '%ams'
 
-select * from Kupac where Prezime like 'D%' and Prezime like '%re'
+select * from Kupac where Prezime like 'D%' and Prezime like '%re%'
